@@ -1,8 +1,12 @@
 # Tri-3-Erik-Peterson
 
-## Erik Peterson Individual Repository
+## <u>GitHub Pages</u>
 
-| TPT | Notes |
-| - | - |
-| 5.1 |  |
-| 5.2 |  |
+### [Link to GitHub Pages](https://maboinjd.github.io/Tri-3-Erik-Peterson)
+### [Link to Test Prep Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/testprep)
+### [Link to Data Structures project Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/datastructure)
+### [Link to Collegeboard/Create Task Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/createtask)
+
+# <u> Team Repository</u>
+
+### [Repo](https://github.com/NinjaBreadLord/grup-grass)
