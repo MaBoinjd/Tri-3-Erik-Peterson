@@ -5,7 +5,7 @@
 ### [Link to GitHub Pages](https://maboinjd.github.io/Tri-3-Erik-Peterson)
 ### [Link to Test Prep Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/testprep)
 ### [Link to Data Structures project Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/datastructure)
-### [Link to Collegeboard/Create Task Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/createtask)
+### [Link to Create Task Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/createtask)
 
 # <u> Team Repository</u>
 
