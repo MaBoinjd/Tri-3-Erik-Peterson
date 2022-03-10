@@ -2,6 +2,6 @@
 
 [Code Snippets]()
 <br/>
-[Replit]()
+[Github](https://github.com/MaBoinjd/Tri-3-Erik-Peterson/)
 <br/>
-[Github]()
+[Replit](https://replit.com/@MaBoinjd/Tri-3-Erik-Peterson#README.md)
