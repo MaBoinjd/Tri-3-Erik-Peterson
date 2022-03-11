@@ -1,12 +1,12 @@
 # Tri-3-Erik-Peterson
 
-[Github for code](https://github.com/MaBoinjd/Tri-3-Erik-Peterson/)
-<br/>
-[Replit for runtime](https://replit.com/@MaBoinjd/Tri-3-Erik-Peterson#README.md)
+## <u>GitHub Pages</u>
 
-## Erik Peterson Individual Repository
+### [Link to GitHub Pages](https://maboinjd.github.io/Tri-3-Erik-Peterson)
+### [Link to Test Prep Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/testprep)
+### [Link to Data Structures project Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/datastructure)
+### [Link to Create Task Page](https://maboinjd.github.io/Tri-3-Erik-Peterson/createtask)
 
-| TPT | Notes |
-| - | - |
-| 5.1 |  |
-| 5.2 |  |
+# <u> Team Repository</u>
+
+### [Repo](https://github.com/NinjaBreadLord/grup-grass)
