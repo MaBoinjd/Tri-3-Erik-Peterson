@@ -12,3 +12,7 @@
 # <u> Team Repository</u>
 
 ### [Repo](https://github.com/NinjaBreadLord/grup-grass)
+
+## Week 0 Ticket
+
+### [Week 0](https://github.com/NinjaBreadLord/grup-grass/issues/5)
