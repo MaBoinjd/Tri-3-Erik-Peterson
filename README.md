@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # Tri-3-Erik-Peterson
 
 ## <u>GitHub Pages</u>
