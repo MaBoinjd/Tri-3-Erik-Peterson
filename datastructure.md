@@ -11,5 +11,7 @@
 # Data Structures
 
 [Github](https://github.com/MaBoinjd/Tri-3-Erik-Peterson/)
-<br/>
-[Replit](https://replit.com/@MaBoinjd/Eriks-Replit)
+
+[Week 0 Replit Snippets](https://replit.com/@MaBoinjd/Eriks-Replit)
+
+[Week 1 Replit Snippets](https://replit.com/@MaBoinjd/Week-1#main.py)
