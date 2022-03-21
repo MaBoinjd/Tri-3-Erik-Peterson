@@ -24,4 +24,4 @@
 ## Tickets
 
 ### [Week 0](https://github.com/NinjaBreadLord/grup-grass/issues/5)
-### [Week 1]()
+### [Week 1](https://github.com/NinjaBreadLord/grup-grass/issues/18)
