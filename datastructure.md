@@ -17,3 +17,5 @@
 [Week 1 Replit Snippets](https://replit.com/@MaBoinjd/Week-1#main.py)
 
 [Week 2 Organized Replit](https://replit.com/@MaBoinjd/Tri-3-Erik-RepL#repl/menu.py)
+
+[Week 3 Create Task Replit](https://replit.com/@MaBoinjd/Tri-3-Erik-RepL#repl/createtask/wordguesser.py)
