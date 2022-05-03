@@ -26,3 +26,7 @@
 ### [Week 0](https://github.com/NinjaBreadLord/grup-grass/issues/5)
 ### [Week 1](https://github.com/NinjaBreadLord/grup-grass/issues/18)
 ### [Week 2](https://github.com/NinjaBreadLord/grup-grass/issues/21)
+
+# MCQ Quiz Score and Corrections
+
+### [Quiz 3](https://github.com/MaBoinjd/Tri-3-Erik-Peterson/blob/main/Quiz3%20MCQ.md)
