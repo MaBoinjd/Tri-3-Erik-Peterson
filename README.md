@@ -30,3 +30,4 @@
 # MCQ Quiz Score and Corrections
 
 ### [Quiz 3](https://github.com/MaBoinjd/Tri-3-Erik-Peterson/blob/main/Quiz3%20MCQ.md)
+### [Quiz 5](https://github.com/MaBoinjd/Tri-3-Erik-Peterson/blob/main/Quiz5%20MCQ.md)
